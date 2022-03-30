@@ -5,7 +5,7 @@ Hola!
 
 Para entrenar lo que acabas de aprender, sigue los siguientes pasos:
 1. apreta el boton verde arriba a la derecha que dice `code`
-2. escoge la opción `SSH`
+2. escoge la opción `HTTPS`
 3. copia el link
 4. abre una consola (o terminal) y anda a la carpeta local (en tu pc) donde quieres clonar este repo  
 5. escribe `git clone <link_que_copiaste>`. Debería ser esto:
