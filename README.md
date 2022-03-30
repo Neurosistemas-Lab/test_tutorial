@@ -21,5 +21,5 @@ Ahora puedes hacer lo siguiente:
 5. agrega el commit (en consola escibir `git commit -m "agrego archivo con mi nombre y comentario"`)
 6. *pushea* el commit (en consola `git push`)
 7. si todo salió bien, entonces ahora puedes hacer un *pull request* desde github directamente
-8. cambiar a la rama `main` en su PC (`git branch main`)
+8. cambiar a la rama `main` en su PC (`git checkout main`)
 9. hacer un pull para actualizar todos los desarrollos de la rama remota `main` en su rama `main` local (`git pull`)
